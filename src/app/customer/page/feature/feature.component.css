@@ -1,0 +1,10 @@
+.image{
+    overflow: hidden !important;
+    width: 200px !important;
+    height: 200px !important;
+}
+.image img{
+    margin-top: 30px !important;
+    width: 100% !important;
+    border-radius: 50% !important;
+}
